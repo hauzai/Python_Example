@@ -15,3 +15,4 @@ for ch in A:
             seem.append(ch)
 
 print(seem)
+print(seem)
