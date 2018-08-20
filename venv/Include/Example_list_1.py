@@ -13,7 +13,7 @@ for ch in A:
     if ch in a:
         if ch not in seem:
             seem.append(ch)
-#append 函数，为列表中添加对象
+#append 函数，为列表中添加对象！
 for ch in seem:
     print(ch)
 print("hellogongsi")
