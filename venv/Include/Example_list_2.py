@@ -15,6 +15,7 @@ print(a)
 print(b)
 
 #使用列表扩展列表
+#extend()将一个列表插入另一个列表
 c = [5,6,7]
 a.extend(c)
 print(a)
